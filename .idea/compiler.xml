@@ -5,10 +5,7 @@
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.jorel/commandapi-annotations/9.7.0/640792dfc641104347d452e8f90c1f7242b2cfe1/commandapi-annotations-9.7.0.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.32/17d46b3e205515e1e8efd3ee4d57ce8018914163/lombok-1.18.32.jar" />
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.jorel/commandapi-bukkit-core/9.7.0/f94c7a00d92b0bca5188fd2f598bf108ed4f130b/commandapi-bukkit-core-9.7.0.jar" />
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.jorel/commandapi-core/9.7.0/598cf50bc218d337a6142c96e4957a62df8e47a1/commandapi-core-9.7.0.jar" />
         </processorPath>
         <module name="PluginTemplateMatito.main" />
       </profile>
